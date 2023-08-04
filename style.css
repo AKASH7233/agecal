@@ -7,6 +7,7 @@ body{
     background: linear-gradient(135deg,rgb(148, 9, 153),rgba(66, 183, 230, 0.568)) no-repeat;
     background-size: 100vw 100vh;
     padding: 200px 100px;
+    overflow:hidden;
 }
 .main{
     width: 500px;
